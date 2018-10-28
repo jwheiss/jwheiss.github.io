@@ -195,8 +195,8 @@ a:hover {
 	margin-bottom: 11;
 	color: #444444;
 	letter-spacing: 1px;
-	font-size: 16;
-	font-weight: 400;
+	font-size: 18;
+	font-weight: 700;
 	}
 #content-inner h4 {
 	margin: 0;
@@ -271,7 +271,7 @@ a:hover {
 	}
 #content-inner p a {
 	text-decoration: none;
-	color: #477f94;
+	color: #51b1d6;
 	font-weight: 500;
 	}
 #content-inner p a:hover {
