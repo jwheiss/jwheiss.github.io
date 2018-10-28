@@ -182,20 +182,20 @@ a:hover {
 #content-inner h2 {
 	margin: 0;
 	padding: 0;
-	margin-bottom: 14px;
+	margin-bottom: 5;
 	text-transform: none;
 	color: #444444;
 	letter-spacing: 1px;
-	font-size: 16;
+	font-size: 18;
 	font-weight: 400;
 	}
 #content-inner h3 {
 	margin: 0;
 	padding: 0;
-	margin-bottom: 14;
+	margin-bottom: 5;
 	color: #444444;
 	letter-spacing: 1px;
-	font-size: 16;
+	font-size: 18;
 	font-weight: 400;
 	}
 #content-inner h4 {
