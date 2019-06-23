@@ -135,16 +135,13 @@ a:hover {
 	display: block;
 	width: 100%;
 	overflow: hidden;
-	padding-bottom: 40px;
 	letter-spacing: 1px;
-	padding-left: 40px;
 	float: none;
-	width: 250px;
+	width: 650px;
 	}
 #james img {
 	border: solid 2px #8f97a3;
-	display: inline-block;
-	margin-bottom: -10px;
+	float: left;
 	}
 #james .title {
     display: block;
