@@ -40,11 +40,11 @@ a:hover {
 #header-inner h1 {
 	font-size: 36px;
 	font-weight: 400;
+	text-align: right;
 	margin: 0;
 	padding: 0;
 	text-transform: uppercase;
-	letter-spacing: 6px;
-	text-align: center;
+	letter-spacing: 6px;	
 	margin-top: 20px;
 	margin-bottom: 0px;
 	float: none;
