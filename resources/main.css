@@ -27,7 +27,7 @@ a:hover {
 	}
 #header-inner {
 	max-width: 800px;
-	height: 400px;
+	height: 0px;
 	width: 100%;
 	margin: 0 auto;
 	display: block;
@@ -46,7 +46,7 @@ a:hover {
 	letter-spacing: 6px;
 	text-align: center;
 	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 	float: none;
 	display: inline-block;
 	color: #222222;
