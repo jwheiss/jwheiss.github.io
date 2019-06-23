@@ -137,7 +137,8 @@ a:hover {
 	overflow: hidden;
 	letter-spacing: 1px;
 	float: none;
-	width: 650px;
+	width: 500px;
+	padding-bottom: 50px;
 	}
 #james img {
 	border: solid 2px #8f97a3;
@@ -471,7 +472,7 @@ span img:hover {
 	/* Dashed black border */
 hr.dashedBlack {
   border-top: 1px dashed black;
-
+}
 
 
 #footer {
