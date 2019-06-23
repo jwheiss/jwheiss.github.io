@@ -138,7 +138,7 @@ a:hover {
 	letter-spacing: 1px;
 	float: none;
 	width: 500px;
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 	}
 #james img {
 	border: solid 2px #8f97a3;
@@ -146,7 +146,7 @@ a:hover {
 	}
 #james .title {
     display: block;
-    padding-top: 30px;
+    padding-top: 0px;
 	line-height: 18px;
 	font-weight: normal;
 	font-size: 14px;
