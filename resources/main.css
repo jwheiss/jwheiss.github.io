@@ -89,7 +89,7 @@ a:hover {
 		
 #splash {
 	width: 100%;
-	position: absolute;
+	position: relative;
 	z-index: 2;
 	margin-bottom: 60px;
 	overflow: hidden;
@@ -108,7 +108,7 @@ a:hover {
 	display: block;
 	padding-left: 30px;
 	padding-right: 30px;
-	overflow: hidden;
+	overflow: visible;
 	}
 #splash-inner h2 {
 	position: absolute;
