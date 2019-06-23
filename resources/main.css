@@ -26,7 +26,7 @@ a:hover {
 		border-bottom: 4px solid #477f94;	
 	}
 #header-inner {
-	max-width: 1000px;
+	max-width: 800px;
 	width: 100%;
 	margin: 0 auto;
 	display: block;
@@ -103,7 +103,7 @@ a:hover {
 	width: 100%;
 	}
 #splash-inner {
-	max-width: 1000px;
+	max-width: 800px;
 	width: 100%;
 	margin: 0 auto;
 	display: block;
@@ -294,7 +294,7 @@ a:hover {
 	margin-bottom: -10px;
 	}
 #slider-inner {
-	max-width: 1000px;
+	max-width: 800px;
 	width: 100%;
 	margin: 0 auto;
 	display: block;
@@ -433,7 +433,7 @@ a:hover {
 	}
 #controls-bar {
 	height: 40px;
-	width: 1000px;
+	width: 800px;
 	display: block;
 	position: absolute;
 	left: 30px;
@@ -443,7 +443,7 @@ a:hover {
 	}
 #controls {
 	height: 40px;
-	width: 1000px;
+	width: 800px;
 	display: block;
 	position: relative;
 	overflow: hidden;
@@ -485,7 +485,7 @@ hr.dashedBlack {
 	padding-top: 20px;
 	}
 #footer-inner {
-	max-width: 1000px;
+	max-width: 800px;
 	margin-left: 30px;
 	margin-right: 30px;
 	width: 100%;
