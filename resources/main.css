@@ -58,10 +58,10 @@ a:hover {
 	font-size: 14px;
 	font-weight: 500;
 	margin-left: 40px;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 	padding: 0;
 	padding-top: 0px;
-	padding-bottom: 00px;
+	padding-bottom: 0px;
 	text-transform: uppercase;
 	text-align: left;
     letter-spacing: 4px;
@@ -72,7 +72,7 @@ a:hover {
 	letter-spacing: 2px;
 	float: right;
 	display: inline-block;
-	margin-top: 22px;
+	margin-top: 0px;
 	margin-left: 14px;
 	font-weight: 700;
 	padding: 10px;
