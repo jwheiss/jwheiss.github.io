@@ -467,6 +467,10 @@ span img:hover {
 	}
 	
 
+	
+	/* Dashed black border */
+hr.dashedBlack {
+  border-top: 1px dashed black;
 
 
 
