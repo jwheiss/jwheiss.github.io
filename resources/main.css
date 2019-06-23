@@ -27,7 +27,7 @@ a:hover {
 	}
 #header-inner {
 	max-width: 800px;
-	height: 150px;
+	height: 120px;
 	width: 100%;
 	margin: 0 auto;
 	display: block;
@@ -40,8 +40,8 @@ a:hover {
 #header-inner h1 {
 	font-size: 36px;
 	font-weight: 400;
-	text-align: right;
-	margin: 0;
+	text-align: center;
+	margin-left: 40px;
 	padding: 0;
 	text-transform: uppercase;
 	letter-spacing: 6px;	
@@ -57,7 +57,7 @@ a:hover {
 #header-inner h2 {
 	font-size: 12px;
 	font-weight: 500;
-	margin: 0;
+	margin-left: 40px;
 	padding: 0;
 	padding-top: 10px;
 	padding-bottom: 20px;
@@ -76,7 +76,7 @@ a:hover {
 	margin-left: 14px;
 	font-weight: 700;
 	padding: 10px;
-	padding-left: 16px;
+	padding-left: 14px;
 	padding-right: 14px;
 	color: #477f94;
 	}
