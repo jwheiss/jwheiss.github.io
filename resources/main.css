@@ -141,7 +141,7 @@ a:hover {
 	}
 #james img {
 	border: solid 2px #8f97a3;
-	float: left;
+	float: right;
 	}
 #james .title {
     display: block;
@@ -476,7 +476,7 @@ span img:hover {
 	z-index: 2;
 	background: #477f94;
 	margin-top: 20px;
-	padding-bottom: 30px;
+	padding-bottom: 60px;
 	padding-top: 20px;
 	}
 #footer-inner {
