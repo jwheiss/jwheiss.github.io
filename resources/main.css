@@ -27,7 +27,7 @@ a:hover {
 	}
 #header-inner {
 	max-width: 800px;
-	height: 200px;
+	height: 150px;
 	width: 100%;
 	margin: 0 auto;
 	display: block;
@@ -89,7 +89,7 @@ a:hover {
 		
 #splash {
 	width: 100%;
-	position: relative;
+	position: absolute;
 	z-index: 2;
 	margin-bottom: 60px;
 	overflow: hidden;
