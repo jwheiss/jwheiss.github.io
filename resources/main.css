@@ -129,8 +129,9 @@ a:hover {
 	}
 	
 
-imgborder { 
+.imgborder { 
    border:2px solid #021a40;
+   margin-top: 20px;
 }
 
 	
