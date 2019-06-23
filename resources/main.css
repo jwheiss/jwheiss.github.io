@@ -27,6 +27,7 @@ a:hover {
 	}
 #header-inner {
 	max-width: 800px;
+	height: 400px;
 	width: 100%;
 	margin: 0 auto;
 	display: block;
