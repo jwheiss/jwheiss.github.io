@@ -41,7 +41,7 @@ a:hover {
 	font-size: 36px;
 	font-weight: 400;
 	text-align: center;
-	margin-left: 40px;
+	margin-left: 0px;
 	margin-top: 15px;
 	margin-bottom: 0px;
 	padding: 0;
@@ -57,7 +57,7 @@ a:hover {
 #header-inner h2 {
 	font-size: 14px;
 	font-weight: 500;
-	margin-left: 40px;
+	margin-left: 0px;
 	margin-bottom: -10px;
 	padding: 0;
 	padding-top: 0px;
@@ -470,8 +470,8 @@ span img:hover {
 
 	
 	/* Dashed black border */
-hr.dash{
-  border-top: 1px dashed #322f32;
+hr.solid{
+  border-top: 1px solid #322f32;
   background: none;
   height:0;
 } 
