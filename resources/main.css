@@ -200,16 +200,6 @@ a:hover {
 	font-size: 18;
 	font-weight: 700;
 	}
-#content-inner h4 {
-	margin: 0;
-	padding: 0;
-	padding-bottom: 60px;
-	color: #444444;
-	letter-spacing: 2px;
-	font-size: 12px;
-	line-height: 20px;
-	font-weight: 400;
-	}
 #content-inner a.button {
 	font-size: 13px !important;
 	text-transform: uppercase;
@@ -264,7 +254,7 @@ a:hover {
 	line-height: 28px;
 	font-weight: 400;
 	padding: 0;
-	padding-bottom: 40px;
+	padding-bottom: 25px;
 	margin: 0;
 	letter-spacing: 1px;
 	color: #444444;
@@ -480,10 +470,11 @@ span img:hover {
 
 	
 	/* Dashed black border */
-hr.dashedBlack {
-  border-top: 1px dashed black;
-}
-
+hr.dash{
+  border-top: 1px dashed #322f32;
+  background: none;
+  height:0;
+} 
 
 #footer {
 	width: 100%;
