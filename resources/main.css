@@ -146,7 +146,7 @@ a:hover {
 	}
 #james img {
 	border: solid 2px #8f97a3;
-	float: right;
+	float: left;
 	}
 #james .title {
     display: block;
@@ -163,13 +163,13 @@ a:hover {
 	width: 100%;
 	overflow: hidden;
 	letter-spacing: 1px;
-	float: right;
+	float: left;
 	width: 500px;
 	padding-bottom: 0px;
 	}
 #student img {
 	border: solid 2px #8f97a3;
-	float: right;
+	float: left;
 	}
 #student .title {
     display: block;
