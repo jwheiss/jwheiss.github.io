@@ -175,7 +175,8 @@ a:hover {
 	}
 #student .title {
     display: block;
-   	line-height: 18px;
+    padding-top: 0px;
+	line-height: 18px;
 	font-weight: normal;
 	font-size: 14px;
 	}
