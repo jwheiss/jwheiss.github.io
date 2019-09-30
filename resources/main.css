@@ -141,8 +141,8 @@ a:hover {
 	overflow: hidden;
 	letter-spacing: 1px;
 	float: left;
-	width: 800px;
-	margin-top: 30px;
+	width: 450px;
+	
 	margin-right: 10px;
 	}
 #james img {
@@ -166,8 +166,8 @@ a:hover {
 	overflow: hidden;
 	letter-spacing: 1px;
 	float: left;
-	width: 800px;
-	margin-top: 30px;
+	width: 450px;
+	
 	margin-right: 10px;
 	}
 #student img {
@@ -177,7 +177,7 @@ a:hover {
 	}
 #student .title {
     display: block;
-   	margin-bottom: 15px;
+    padding-top: 0px;
 	line-height: 18px;
 	font-weight: normal;
 	font-size: 14px;
