@@ -141,12 +141,14 @@ a:hover {
 	overflow: hidden;
 	letter-spacing: 1px;
 	float: left;
-	width: 500px;
+	width: 450px;
 	padding-bottom: 0px;
+	padding-right: 10px;
 	}
 #james img {
 	border: solid 2px #8f97a3;
 	float: left;
+    padding-right: 10px;
 	}
 #james .title {
     display: block;
@@ -164,12 +166,14 @@ a:hover {
 	overflow: hidden;
 	letter-spacing: 1px;
 	float: left;
-	width: 500px;
+	width: 450px;
 	padding-bottom: 0px;
+	padding-right: 10px;
 	}
 #student img {
 	border: solid 2px #8f97a3;
 	float: left;
+	padding-right: 10px;
 	}
 #student .title {
     display: block;
