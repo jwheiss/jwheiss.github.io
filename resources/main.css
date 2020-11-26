@@ -22,7 +22,7 @@ a:hover {
 	width: 100%;
 	background: url(img/bg-head.png);
 	position: fixed;
-	height: 150px;
+	height: 145px;
 	z-index: 10;
     border-bottom: 4px solid #477f94;	
 	}
