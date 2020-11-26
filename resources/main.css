@@ -17,7 +17,7 @@ a:hover {
 	
 	
 	
-#header {
+#header { /* gray area */
 	display: block;
 	width: 100%;
 	background: url(img/bg-head.png);
@@ -26,7 +26,7 @@ a:hover {
 	z-index: 10;
     border-bottom: 4px solid #477f94;	
 	}
-#header-inner {
+#header-inner { 
 	max-width: 800px;
 	height: 300px;
 	width: 100%;
@@ -38,7 +38,7 @@ a:hover {
 	padding-right: 30px;
 	overflow: hidden;
 	}
-#header-inner h1 {
+#header-inner h1 { /* HYDROGEOLOGY GROUP text */
 	font-size: 36px;
 	font-weight: 400;
 	text-align: center;
@@ -55,11 +55,11 @@ a:hover {
 #header-inner span img {
 	width: 32px;
 	}
-#header-inner h2 {
+#header-inner h2 {  /* UMASS LOWELL TEXT */
 	font-size: 14px;
 	font-weight: 500;
 	margin-left: 0px;
-	margin-bottom: -10px;
+	margin-bottom: 50px;
 	padding: 0;
 	padding-top: 0px;
 	padding-bottom: 0px;
