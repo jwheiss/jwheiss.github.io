@@ -22,6 +22,7 @@ a:hover {
 	width: 100%;
 	background: url(img/bg-head.png);
 	position: fixed;
+	height: 500px;
 	z-index: 10;
     border-bottom: 4px solid #477f94;	
 	}
@@ -57,7 +58,6 @@ a:hover {
 #header-inner h2 {
 	font-size: 14px;
 	font-weight: 500;
-	height: 500px;
 	margin-left: 0px;
 	margin-bottom: -10px;
 	padding: 0;
