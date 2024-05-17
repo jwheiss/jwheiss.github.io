@@ -299,7 +299,17 @@ a:hover {
 	color: #b43f33;
 	}
 	
-	
+ul {
+	margin-top: 0;
+}
+
+li {
+	font-family: 'Arial', sans-serif;
+	color: #444444;
+	margin: 0;
+	padding: 0;
+    line-height: 1.5;
+}
 
 
 	
