@@ -55,7 +55,8 @@ a:hover {
 #header-inner span img {
 	width: 32px;
 	}
-#header-inner h2 {  /* UMASS LOWELL TEXT */
+#header-inner h2,
+#header-inner .tagline {  /* UMASS LOWELL TEXT */
 	font-size: 14px;
 	font-weight: 500;
 	margin-left: 0px;
@@ -65,7 +66,7 @@ a:hover {
 	padding-bottom: 0px;
 	text-transform: uppercase;
 	text-align: left;
-    letter-spacing: 4px;
+	letter-spacing: 4px;
 	}
 #header-inner a.button {
 	font-size: 14px;
@@ -210,14 +211,15 @@ a:hover {
 	position: relative;
 	overflow: hidden;
 	}
-#content-inner h2 {
+#content-inner h2,
+#content-inner .citation {
 	margin: 0;
 	padding: 0;
-	margin-bottom: 20;
+	margin-bottom: 20px;
 	text-transform: none;
 	color: #444444;
 	letter-spacing: 1px;
-	font-size: 14;
+	font-size: 14px;
 	font-weight: 400;
 	}
 #content-inner h3 {
